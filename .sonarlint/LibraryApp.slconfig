@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://40.74.233.57:9000/",
+  "Organization": null,
+  "ProjectKey": "Library.API",
+  "ProjectName": "Library.API",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AX5s3RORStV7QS9F6XO1",
+      "ProfileTimestamp": "2022-01-18T11:05:34Z"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+﻿D:\LibraryAPI\Library.API\Library.API\Controllers\BooksController.cs
+D:\LibraryAPI\Library.API\Library.API\Data\Models\Book.cs
+D:\LibraryAPI\Library.API\Library.API\Data\Services\BookService.cs
+D:\LibraryAPI\Library.API\Library.API\Data\Services\IBookService.cs
+D:\LibraryAPI\Library.API\Library.API\Program.cs
+D:\LibraryAPI\Library.API\Library.API\Startup.cs
+D:\LibraryAPI\Library.API\Library.API\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\LibraryAPI\Library.API\Library.API\obj\Debug\net5.0\Library.API.AssemblyInfo.cs
+D:\LibraryAPI\Library.API\Library.API\appsettings.Development.json
+D:\LibraryAPI\Library.API\Library.API\appsettings.json
+D:\LibraryAPI\Library.API\Library.API\Dockerfile
+D:\LibraryAPI\Library.API\Library.API\Properties\launchSettings.json
+D:\LibraryAPI\Library.API\.dockerignore
